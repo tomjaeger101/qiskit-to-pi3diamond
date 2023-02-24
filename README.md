@@ -1,3 +1,2 @@
-# qiskit-to-pi3diamond
-A compiler to create code for pi3diamond from qiskit circuit
-Code by Max Keller
+# Compiler-mcas-qiskit
+The repository for the qiskit QuantumCircuit object/circuit to mcas compiler.
